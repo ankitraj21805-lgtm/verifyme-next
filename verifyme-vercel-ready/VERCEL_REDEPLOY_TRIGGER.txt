@@ -1,0 +1,2 @@
+Trigger redeploy after cleaning package-lock and forcing public npm registry.
+Timestamp: 2026-06-12
